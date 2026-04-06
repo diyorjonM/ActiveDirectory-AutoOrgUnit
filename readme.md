@@ -1,5 +1,9 @@
 # Creating Organizational Unit for Active Directory w/ PowerShell Script
 
+### Watch Me Do This Lab HERE
+
+https://www.loom.com/share/021f826ddcf5421abc95d31f130ab95c 
+
 ## Project Overview
 
 This lab documents the use of a PowerShell script to automate the creation of an Organizational Unit (OU) on Service Now.
