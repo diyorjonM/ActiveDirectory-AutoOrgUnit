@@ -31,11 +31,21 @@ The purpose of this project was to:
 - Select New > Text Document to create a .txt file.
 - Paste the script into the .txt file, select save as and add the ".ps1" extension to save as a PowerShell file.
 
+<img width="1116" height="702" alt="Screenshot 2026-04-14 at 8 34 01 PM" src="https://github.com/user-attachments/assets/e4d6eacc-e3cc-4b75-86f9-e1b888897a9a" />
+
+
 ### 2. Run Script
 
 - Open PowerShell as Administrator.
 - Paste the Script and run it.
+  
+<img width="549" height="371" alt="Screenshot 2026-04-14 at 8 34 45 PM" src="https://github.com/user-attachments/assets/97ee63ab-54f5-469a-b118-6d7e75ae71ca" />
+
+<img width="969" height="626" alt="Screenshot 2026-04-14 at 8 34 58 PM" src="https://github.com/user-attachments/assets/e10768c4-7502-4ec5-92ca-004017dc23b1" />
+
 - Verify that the OU has been created in the Active Directory Users and Computers app.
+
+<img width="753" height="520" alt="Screenshot 2026-04-14 at 8 35 15 PM" src="https://github.com/user-attachments/assets/8136869c-5581-466f-8389-b10bb2d7bdec" />
 
 ## Outcome
 
